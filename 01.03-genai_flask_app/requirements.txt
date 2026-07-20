@@ -1,0 +1,6 @@
+langchain-core
+langchain
+python-dotenv
+requests
+flask
+typing-extensions

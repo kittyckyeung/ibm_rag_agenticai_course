@@ -1,0 +1,8 @@
+.venv
+.vscode
+__pycache__
+*.pyc
+output*
+.gradio
+log.csv
+backup
