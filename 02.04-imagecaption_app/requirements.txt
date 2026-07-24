@@ -1,0 +1,15 @@
+langchain-core
+langchain-chroma
+langchain-text-splitters
+langchain
+langchain_community
+transformers
+torch
+torchvision
+pydantic
+gradio
+python-dotenv
+requests
+fastapi
+uvicorn
+pypdf
