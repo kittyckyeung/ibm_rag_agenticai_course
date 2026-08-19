@@ -1,0 +1,8 @@
+dotenv
+pytube
+youtube-transcript-api
+langchain-openai
+langchain
+langchain-core
+yt-dlp
+ipython
